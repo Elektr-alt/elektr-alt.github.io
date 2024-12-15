@@ -2121,7 +2121,7 @@ input, select, textarea {
 
 			table.default thead {
 				background: #3f91b1;
-				color:#47163f;
+				color:#1d5b85;
 			}
 
 /* Button */
@@ -2415,7 +2415,7 @@ input, select, textarea {
 			animation: none;
 			background: transparent;
 			box-shadow: none;
-			color: #47163f;
+			color: #1d5b85;
 			padding: 2em 2.5em;
 			position: absolute;
 		}
