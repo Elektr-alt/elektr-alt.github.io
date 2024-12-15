@@ -78,12 +78,14 @@ input, select, textarea {
 		box-sizing: border-box;
 	}
 
+
 	*, *:before, *:after {
 		box-sizing: inherit;
 	}
 
 	body {
-		background: #f3f6fa;
+		 background: url('images/kazbegi-yazbegi-mountain-caucasus-georgia-travel-trip.jpg') no-repeat center center fixed;
+  background-size: cover;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
