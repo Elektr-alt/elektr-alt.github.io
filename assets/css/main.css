@@ -1955,30 +1955,30 @@ input, select, textarea {
 				}
 
 			.icon.circle.fa-google-plus-g {
-				background: #db6b67;
+				background: #3f91b1;
 				color: #fff;
 			}
 
 				.icon.circle.fa-google-plus-g:hover {
-					background: #df7b77;
+					background: #3f91b1;
 				}
 
 			.icon.circle.fa-github {
-				background: #dcad8b;
+				background: #3f91b1;
 				color: #fff;
 			}
 
 				.icon.circle.fa-github:hover {
-					background: #e1b89b;
+					background: #3f91b1;
 				}
 
 			.icon.circle.fa-dribbble {
-				background: #da83ae;
+				background: #3f91b1;
 				color: #fff;
 			}
 
 				.icon.circle.fa-dribbble:hover {
-					background: #df93b8;
+					background: #3f91b1;
 				}
 
 		.icon.featured {
@@ -2180,8 +2180,8 @@ input, select, textarea {
 			input[type="reset"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background: #96dad1 !important;
-				border-color: #96dad1 !important;
+				background: #075e87 !important;
+				border-color: #075e87 !important;
 			}
 
 		input[type="button"].fit,
@@ -2528,7 +2528,7 @@ input, select, textarea {
 
 	#banner {
 		background-attachment: scroll, scroll, scroll, fixed;
-		background-color: #645862;
+		background-color: #075e87;
 		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/travel-georgia-assistant-עוזר-נסיעות-בגאורגיה.- مساعد-السفر-في-جورجيا-помощник-путешествия-грузия.jpg"), url("../../images/banner.jpg");
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
